@@ -1,0 +1,19 @@
+
+	De acordo com relatório da Associação das Empresas de Tecnologia da Informação e Comunicação (Brasscom), a área de Tecnologia da Informação (TI) demandará cerca de 420 mil profissionais até 2024. O número, porém, se contrapõe à baixa quantidade de formação de mão de obra anual e desperta um alerta para o risco de um apagão de profissionais qualificados para ocupar os postos vagos.
+	Trata-se de uma previsão catastrófica para o Brasil, em plena vigência da 4ª Revolução Industrial onde o nosso pais teria  que estar plenamente preparado para enfrentar outros países no que se referem: a inteligência artificial, internet das coisas, machine learning, big data, a biotecnologia, blockchain, robótica, realidade virtual, 3D, etc.
+	Nesse contexto, podemos afirmar que a DIGITAL INNOVATION ONE, tem feito a sua parte para tentar minimizar o problema da falta de especialistas em TI através de seus vários “bootcamps”, utilizando-se de excelentes profissionais para ministrarem seus cursos.
+	Obviamente, esses “bootcamps” são apenas o início da preparação de profissionais para a área de TI, que  têm que ser complementados com cursos mais avançados e estágios prolongados nas respectivas especialidades para que possamos ter profissionais efetivamente preparados para as nossas necessidades de TI;
+ 
+4ª Revolução Industrial segundo o site : https://newlaw.com.br/quarta-revolucao-industrial/
+
+	A forma como consumimos e até mesmo nos relacionamos passou por mudanças radicais nos últimos anos, ocasionadas por diversos avanços tecnológicos. A maneira como trabalhos são desempenhados, e como profissões são extintas e criadas, aponta que o mundo passa neste momento pela Quarta Revolução Industrial.
+	Com o uso das tecnologias trazidas pela Terceira Revolução Industrial, relacionadas à informação e comunicação, um novo passo está sendo dado por meio da combinação com processos digitais. Essa mistura é o que se chama atualmente de “fábrica inteligente”.
+	Se uma internet muito mais móvel e global, no início deste século, deu as bases para o que seria a Terceira Revolução Industrial, o alcance da Quarta Revolução ainda não foi completamente explorado, mas é possível vislumbrá-lo.
+	Como exemplos já existentes dessa combinação que tem fundamentado a Quarta Revolução Industrial, podemos apontar a biotecnologia, blockchain, inteligência artificial, realidade virtual e aumentada, robótica, internet das coisas e a já mencionada impressão 3D, o que não esgota lista de possibilidades.
+
+Mas afinal, o que é a Indústria 4.0? segundo o site : https://brazillab.org.br/noticias/programa-rumo-a-industria-4-
+
+	Indústria 4.0 é um conceito de indústria proposto recentemente e que engloba as principais inovações tecnológicas dos campos de automação, controle e tecnologia da informação, aplicadas aos processos de manufatura. A partir de Sistemas Cyber-Físicos, Internet das Coisas e Internet dos Serviços, os processos de produção tendem a se tornar cada vez mais eficientes, autônomos e customizáveis.
+	Isso significa um novo período no contexto das grandes revoluções industriais. Com as fábricas inteligentes, diversas mudanças ocorrerão na forma em que os produtos serão manufaturados, causando impactos em diversos setores do mercado.
+	Tornar a Indústria 4.0 uma realidade implicará a adoção gradual de um conjunto de tecnologias emergentes de TI e automação industrial, na formação de um sistema de produção físico-cibernético, com intensa digitalização de informações e comunicação direta entre sistemas, máquinas, produtos e pessoas; ou seja, a tão famosa Internet das Coisas (IoT). Esse processo promete gerar ambientes de manufatura altamente flexíveis e autoajustáveis à demanda crescente por produtos cada vez mais customizados.
+
